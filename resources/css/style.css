@@ -1,0 +1,168 @@
+body{
+  font-family: 'Open Sans', verdana, sans-serif;
+}
+
+li{
+  list-style: none;
+}
+/*HEADERS*/
+
+h2, h3, h6{
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+
+h1{
+  margin-bottom: 16px;
+}
+
+h4{
+  margin-bottom: 25px;
+  font-family: "Open Sans", verdana, sans-serif;
+}
+
+h6{
+  margin: 2vh;
+}
+
+/*HEADERS*/
+
+
+.btn{
+  border-radius: 0;
+}
+
+.email{
+  margin-right: 6px;
+  padding: 7px 12px;
+}
+
+.generic{
+  margin: 4vh 0;
+}
+
+.inputButton{
+  padding: 8px 12px;
+}
+
+.jumbotron{
+  background: url('hero.jpg')center center no-repeat;
+  color: white;
+  height: 60vh;
+  padding-top: 30vh;
+}
+
+.email{
+  width: 25%;
+}
+
+.tiles{
+  background: url('wherewework.jpeg') center center no-repeat;
+  height: 50vh;
+}
+
+.tilesText{
+  padding-top: 20vh;
+}
+
+
+horizontalRule{
+  color: white;
+}
+
+/*navbar*/
+
+.dropdown-menu {
+    width: 600px;
+    height: 400px;
+}
+
+
+#dropdownMenuButton{
+  color: #333333;
+  font-weight: 700;
+}
+
+.navbar-nav li{
+  list-style: none;
+  padding: 5px;
+}
+
+.navbar-nav li a{
+  color: #333333;
+  font-size: 14px;
+}
+
+.paddingKill{
+  padding: 5px 20px;
+}
+
+.mainButton{
+  width: 50%;
+  margin-right: 15px ;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+/*navbar*/
+/*news*/
+.news{
+  margin-bottom: -1.5rem;
+}
+/*news*/
+
+/*grid*/
+.tiles{
+  margin-bottom: -1.03rem;
+}
+
+.special-image{
+  width: 100.1%;
+}
+
+/*grid*/
+
+
+/*FOOTER*/
+
+.footerTop, .footerMid, .footerBottom{
+  font-size: 14px;
+  line-height: 20px;
+}
+
+hr{
+  color: #fff;
+}
+
+.email{
+  width: 200px;
+}
+
+.footerTop{
+  background: #4B4949;
+  color: white;
+  margin-top: 2%;
+}
+
+
+.socialIcons{
+  font-size: 30px;
+}
+
+
+.footerMid{
+  background: #363636;
+  color: white;
+  padding-top: 28px;
+}
+
+.footerBottom{
+  background: #1C1B1B;
+  color: #7c7b7b;;
+}
+
+.footerBottom a, .footerMid a{
+  color: #fff;
+}
+
+/*FOOTER*/
